@@ -1,0 +1,19 @@
+{
+  "name": "my-first-electron",
+  "version": "1.0.0",
+  "description": "electron quick start",
+  "main": "bootstrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "ld3davis"
+  },
+  "author": "Leo Davis, III",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.0.1"
+  }
+}
